@@ -1,0 +1,39 @@
+﻿  Kulka.cpp
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(100): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(133): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(181): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(185): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(189): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(198): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(238): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(362): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(381): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(398): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marcin\desktop\kula\kulka\kulka.cpp(399): warning C4305: 'initializing': truncation from 'double' to 'float'
+Kulka.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Kulka.vcxproj -> C:\Users\Marcin\Desktop\Kula\Debug\Kulka.exe

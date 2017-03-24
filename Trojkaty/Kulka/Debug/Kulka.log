@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Kulka.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\marcin\desktop\kula\kulka\main.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marcin\desktop\kula\kulka\main.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\main.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\main.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\main.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\main.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\main.cpp(114): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marcin\desktop\kula\kulka\main.cpp(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Kulka.vcxproj -> C:\Users\Marcin\Desktop\Kula\Debug\Trojkaty.exe
